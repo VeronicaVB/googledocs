@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quantum-vista-278402",
+  "private_key_id": "0631a4dec2fcf06abf7dda17b7770eb7546a434c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCbuM0gWacL2SrQ\nfcI4hBeuxaoDQvN9kJytAGLQaKAHVhChECkSUkYaDblih/U8bfvmmj/4D4vlHpOf\nGRYpfire/SllyhspFDsT8kVaG1R2Whz64kLFwy502+jprDTPGxS3VR4CCRhfzopy\nZhZfBIn2UkxyF3Bils6R9rUSN33i0pWXOqtKLjL/X52o8NdJyEWGjtoa9ccoGNae\nJzWwUG+gOxD5gGJfgJ8Qh4lWRBIvvLzKA8a5/D5DITLOBToo4Frtg2AXrQZCqtJu\nSGaqNiXbC3/uabyVBe9JggQ/D/bA6f7iHMYXjm6fM60o8I+k6Gz76p8/oaFyV26y\nOkCP+d1vAgMBAAECggEAOEk5d8aAD1PNWnQCZlw0lTskQy6JhWrmfs/jZ7JRmaU9\nuIH3XoR3i0ZHqno7Jb8ZbJZ3pcm0xrnhIQI31QKiK1y1gHHnlFcYLZMGB1ZWlrrm\nu7ZZ7VKp8ZplW0UgB3Yh7ExrXs/7y/GDcGs/DdQ9q9e+gwS+3hvlibPzaiS9r2Te\n1stNKGfFRj5X1mQQ5bc8pU8zzQDETJgY/lRM6fpvORiCnEHSOg0T69Xum/nSdNid\nK36AIgzeYZjmtSvwSUnRL/UXWN3LyYctucRKcJyTugDjYdUiua2Y3rnnbOvL8Z19\n8nyd5V+z5bueMMBN7mgK6ybetVEAhU++6H4Cr8EtiQKBgQDYeF57SAaOZIxDzY4G\nFTHoMUk8r3/SEctsnBIPquFrQ0muzaWzh+cAYpUgbr20iOATiiGmcdviCOEiAlhF\nIHTtH+2U8GBmGIcMTDsLG33wdBpUsJJaCvfpON3VG48rhSEtizeOZemWpt5RfeHj\niLduarY+NQlNfIkaWL7GmN0wWQKBgQC4KIwIdU2xN2EB5DSb6zZV72x0LwcV9ptW\nJrRBn+CNcBcbtm6oNUbUB2GaV3mAO29VJ3wc2Zk3BQdJwLR6r2beYDtwXWyeLvXC\nvX+4QqpkyMPiOkDVOteGGLz5PbJbHjN/aCto62qthAYOwbVtO617ORp3LspjLwrB\nCwfA/bCDBwKBgEAq9j7vK9pb3eRfc4FEGSYuLfqKP4ai9b09SnFQgz/Lk3T4yuy8\nFXLcxj319dAlXt8L7EutprOLVElDjqz3IRIFi+TBmKHLFYVEt5/kR2HW2NNQACIm\n7DQ7Qi7g24DYFuysPwy8ExEwZ+iaOzK6nT1i7qDkEdzhVLb1pZ+zQqYJAoGAJPFl\nXhECG+nrGPEJqLmftc+I5ynD9yD4emjbQkrrRhRVXmbTfgTqB4DPkKG5qwLBS8jW\n+gag2Mu2cZIp4m6raTLO2bS0JGtxO7a+F12wRvWLbieXd+8M60atKia5T9QYKpfg\nFXUcemCAwpcTaS1OmOiUqZIGYa0/MAihbpK1xSMCgYAppTXWxHvSirddbE6mJGTB\nATt9WfvM6OksYrsFiTAHI2ezAzh5cawTA6r2EZfoCVWPmP5xAK0aZ31oHcC8m+Mn\n/aNnf5jCJCHmZ+Dc4wQH81yOCxv4w6nOsaah8i9xPzsUWjMhBcNVHCcEHg+Z7e1E\ndcnuw9xxJQjtARGzqpjRpw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "modgoogledocs@quantum-vista-278402.iam.gserviceaccount.com",
+  "client_id": "110604562186718098839",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/modgoogledocs%40quantum-vista-278402.iam.gserviceaccount.com"
+}

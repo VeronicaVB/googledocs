@@ -1,0 +1,10 @@
+/* 
+    Created on : 16 Jun 2020, 8:50:23 am
+    Author     : Veronica Bermegui.
+*/
+
+table.flexible.overviewTable {
+    margin: 20px 0;
+    width: 100%;
+    table-layout: fixed;
+}
