@@ -1,5 +1,5 @@
 # Googledocs  Activity Module
-Create google files (doc, sheet, presentation) in a moodle course.
+Create google files (doc, sheet, presentation) in gdrive  from a moodle course.
 
 Up to this stage the module can: 
 Create a "master" file and update it. By running a cron task, it will generate  the appropiate copies for students enrol in a course.
