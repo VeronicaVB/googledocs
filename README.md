@@ -1,4 +1,4 @@
-# googledocs
+# Googledocs  Activity Module
 Create google files (doc, sheet, presentation) in a moodle course.
 
 Up to this stage the module can: 
